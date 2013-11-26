@@ -17,7 +17,7 @@ Feel free to contact the following people if you find any
 problems in the package.
 yang.liu@pku.edu.cn * */
 
-Brief introduction
+Brief Introduction
 ===================
 
 1. Advances in sentiment analysis have enabled extraction of user relations implied in online textual exchanges such as forum posts. However, recent studies in this direction only consider direct relation extraction from text. As user interactions can be sparse in online discussions, we propose to apply collaborative filtering through probabilistic matrix factorization to generalize and improve the opinion matrices extracted from forum posts.
@@ -28,4 +28,4 @@ Brief introduction
 
 4. More details of our methods for aspect identification, opinion identification and opinion relation extraction are described in the following paper:
 
-Minghui Qiu, Liu Yang and Jing Jiang. Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization.In Proceedings of the 2013 Conference of North American Chapter of Association for Computational Linguistics: Human Language Technologies (NAACL 2013). 
+   Minghui Qiu, Liu Yang and Jing Jiang. Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization.In Proceedings of the 2013 Conference of North American Chapter of Association for Computational Linguistics: Human Language Technologies (NAACL 2013). 
