@@ -4,7 +4,7 @@ NLPForumPostOTE
 /**
 Copyright (C) 2013 by
 SMU Text Mining Group
-Singapore Management University *
+Singapore Management University 
 NLPForumPostOTE is distributed for research purpose, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
