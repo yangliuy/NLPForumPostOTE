@@ -3,8 +3,7 @@ NLPForumPostOTE
 
 /**
 Copyright (C) 2013 by
-SMU Text Mining Group
-Singapore Management University 
+SMU Text Mining Group/Singapore Management University/Peking University
 
 NLPForumPostOTE is distributed for research purpose, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
@@ -29,4 +28,4 @@ Brief Introduction
 
 4. More details of our methods for aspect identification, opinion identification and opinion relation extraction are described in the following paper:
 
-   Minghui Qiu, Liu Yang and Jing Jiang. Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization.In Proceedings of the 2013 Conference of North American Chapter of Association for Computational Linguistics: Human Language Technologies (NAACL 2013). 
+   Minghui Qiu, Liu Yang and Jing Jiang. Mining User Relations from Online Discussions using Sentiment Analysis and Probabilistic Matrix Factorization.In Proceedings of the 2013 Conference of North American Chapter of Association for Computational Linguistics: Human Language Technologies (NAACL 2013). (http://aclweb.org/anthology//N/N13/N13-1041.pdf)
