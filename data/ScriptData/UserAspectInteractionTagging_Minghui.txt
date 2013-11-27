@@ -1,0 +1,115 @@
+**************************************************************************************************
+* User Aspect Interaction Tagging for Thread Posts in Forums
+*		School of Information System
+*       Singapore Management University    
+*
+* 1 The tagging format is as follows:
+*   SentID \t PostID \t Aspect \t AspectWordsIndex \t Opinion \t OpinionWordsIndex \t OpinionPolarity \t Sentence
+*   eg. 104	26	Obama	0	worst	4	negative	Obama will be the worst President . 
+* 2 The delimiters between tag tokens are \t and the delimiters between aspect words index and
+*   opinion words index are blanks.
+* 3 Aspect words index and opinion words index are from splitting result by blanks of the sentence.
+*   Both of them are begun with 0. 
+* 4 If there are multiple Aspect-Opinion pair in one sentence, there will be multiple tag line for 
+*   this sentence.
+**************************************************************************************************
+11	9	So you 'll take a stance on Palin ... already made up your mind ... but 11 's to early to take a stance on Obama ??? 
+14	12	Folks have no idea how Palin would do , yet Folks would not vote for her , but Folks still have n't made up Folks minds about Obama , even though Obama has proven to be a disaster . 
+18	13	we say NO because we know how Obama is trying to -LRB- \* -RRB- -LRB- \* -RRB- -LRB- \* -RRB- -LRB- \* -RRB- we all . 
+24	15	I 'll vote for Obama over any of the Republicans now in the field . 
+25	15	Obama has kept Obama campaign promises . 
+34	15	Obama has n't weakened security in any way . 
+41	15	I am not aware of a single instance where Obama lied . 
+42	15	As far as the BS goes , Obama is a politician and enemies all suffer from that a bit . 
+55	22	Obama has done a pretty good job as President , so already your thread is a big fat fail . 
+80	22	Never mind when Bush was doing depression , at least Obama is doing depression to help not help Bush , like Bush . 
+88	23	This from someone that did n't worry about Bush 's spending , or the fact that Bush had a surplus and blew spending and handed Obama a deficit . 
+89	23	And yes , Obama has strengthened ties with our allies and stoop up to our enemies , the fact that you are are n't aware of yes is because Obama does yes with finesse , not like the buffoon our had before . 
+91	24	Obama 's approval rating is 47 % . 
+92	24	Obama term average is 57 % The average for US Presidents -LRB- since FDR -RRB- is 55 % , so Obama is doing better than that . 
+93	24	Your beloved Reagan had 44 % at the same time in office as Obama . 
+94	24	-LRB- So Obama is doing better -RRB- . 
+103	26	Your answers are that of a typical blind Obama sheep . 
+104	26	Obama will be the worst President . 
+105	26	Obama will not keep Obama promise about tax cuts for 95 % of Americans . 
+133	32	Obama is doing fine . 
+134	32	The only ones finding fault with the things Obama is doing are the neo-cons , right-wing , tea baggers , not much to consider . 
+135	32	Palin criticized Obama for Obama stance on reducing nuclear weapons . 
+137	32	So , Reagan , your idol was right , but Obama is wrong ? 
+148	35	As thing is refined , more and more people -LRB- except the right-wing sheep -RRB- will be able to see and Obama will get the credit Obama deserves . 
+149	35	thing is time for the right to quit trying to control what Obama does or does n't do , you had your chance and you blew thing , with Bush . 
+154	35	Well , being that you have already been proven wrong -LRB- you said Obama had not been able to do anything Obama promised -RRB- , it is hard to believe anything the right says . 
+162	38	In the subsequent segment , titled `` DANGEROUS RHETORIC : When heated words incite threats & violence , '' CNN 's panel agreed Obama 's political opponents are inciting violence and are motivated by racism -- undeterred by Palin 's assurance , which CNN played : When I talk about segment 's not a time to retreat , segment 's a time to reload , what I 'm talking about -- now , media , try to get this right , okay ? 
+198	43	Unless Jesus runs against Jesus , I will be voting for Obama in 2012 . 
+215	57	Most of your post is delusional , especially the part about Obama not having lied . 
+233	64	You do realize that a lot of the disapproval comes from liberals who are upset with Obama for not ending the wars and not closing Gitmo , right ? 
+261	78	I just wanted to know if anyone who voted for him would have the courage to vote for someone else since Obama is an utter failure and a fraud . 
+265	79	.6 % http : \ \/ \ \/ biggovernment.com \ \/ ldoan\/2010 \ \/ ... - obama-policieThe Obama Administration is putting the best face on the Bureau of Labor Statistics ' -LRB- BLS -RRB- recent March 2010 jobless numbers report , touting the steady nationwide jobless number of 9.7 % . 
+278	81	Kinda refutes the whole idea the right-wingers are espousing about how Obama is giving away jobs to Obama fellow blacks at the expense of the whites , does n't Kinda ? 
+289	85	So its ok to call Palin names , but if I were to call Obama something racist , the out cry would be unbearable , racist an interesting stance you liberals take . 
+305	94	So you do n't like Obama because Obama 's smarter than other people and Obama knows it ? 
+311	96	Sorry Eldedu I was n't clear enugh for you I dislike Obama because Obama has not figure out who Obama wants to be yet and Obama does n't know it . 
+312	96	We are watching Obama morph from a lesser University law lecturer turn into godlike proportions because of Obama great press who desperately want Obama tobe what Obama promises . 
+316	97	President Obama campaigned on redistribution of wealth and health care reform . 
+317	97	Obama promise was met . 
+318	97	President Obama is no elitist , Sarah Palin makes those accusations regularly and their unfounded . 
+321	99	My poll was based on the fact that Obama is nothing like Obama portrayed Obama to be during Obama campaign -LRB- except the distribution of welath thing , which Obama is certainly doing -RRB- , and if anyone would change their mind based on that fact . 
+323	101	Obama is going to town with spending\/deficit increases , and Obama has just been in there for a little over a year . 
+324	101	I think Obama will dwarf every other President . 
+326	102	More and more folks are feeling this way as folks open folks eyes and see the fraud that Obama is . 
+330	103	fan just know that the tax increases implemented by Obama in the neighborhood of 640 billion so far , are a fact of life right now . 
+357	117	When Obama came on the scene the black people turned people backs on the Clintons people hated people , that 's who 297 Interesting . 
+359	118	I do know that , when given the choice between HRC and Obama , Obama 's campaign began to quickly pick up the minority votes as choice became more viable . 
+361	118	Obama was an interesting candidate , but not many think Obama could take HRC in the primary . 
+362	118	HRC was only as the primary approached that primary appeared Obama could win primary . 
+365	121	Thanks for the link , but I still do n't get your point : 306 Point is simple , Devil said back at I original chart that many white voters wont vote for Obama because of color . 
+380	126	Many black folks have opened folks eyes to Obama , and have no intention of voting for Obama again . 
+397	133	In Clinton 1st year in office , our beloved `` Spender-N-Chief '' Obama increased the deficit , spent 3.5 trillion dollars and added over 1.5 + trillion dollars to The National Debt , a new record . 
+398	133	Come 2012 , Obama will have added over 5 + trillion dollars to The National Debt in just 4 short years . 
+400	133	Isreal 's support for President Obama continues to decline . 
+401	133	President Obama dropped bombs in Pakistan , Afghanistan and Yemen murdering precious life 's innocent blood . 
+402	133	Furthermore , `` the war of necessity '' -LRB- Afghanistan `` conflict '' -RRB- that President Obama once labeled proceeds on with marginal protests by the Left Wing `` moonbats '' 342 One nation under a bufoon of a President Obama , about as sharp as a bowling ball ... 343 NOPE !!! 
+403	133	, what you are looking at is the Bradley effect , only opposite ... When Furthermore go vote effect will be Obama , bet on effect . 
+433	149	The only ones with their heads in the sand , are the desperate conservatives as conservatives try to convince the country that things are bad under Obama . 
+444	153	Geez , like you have n't called Obama names ? 
+446	154	Could it be because even dumb Sarah is able to recognize that Obama graduated from Harvard , Magna Cum Laude , while Sarah attended 5 colleges , and Sarah still does n't know much ? 
+466	155	Obama had to do major surgery to repair the damage caused by Bush . 
+469	155	Obama supports Israel . 
+470	155	Apr 9 , 2010Do you approve or disapprove of the Obama administration 's handling of U.S.-Israel relations ? 
+471	155	A new , annual survey of American Jewish public opinion by the American Jewish Committee finds that Jews , by and large , continue to approve of Obama -- 57 percent say they approve of the job Obama 's doing -- and also back Obama handling of Israel . 
+473	155	html 401 Well , it is apparent that Republicans do not like Obama , but to take html to the level of lying about Obama presidency is totally wild . 
+486	164	If Obama has let banks fail , and not pushed a stimulus of the size Obama did , we would currently be facing similar situations as took place in the 1920 's and 1930 's , runs on banks , 25-30 % unemployment , a return of the Hoovervilles . 
+487	164	Obama , if for no other reason will be favorably looked upon 50-100 years from now as the one who had the courage to take a risk , and invest in America , instead of pulling everything in , and letting courage all die . 
+517	167	economy depends on who is run against He , but the Obama administration has been a big positive change for America . 
+531	172	The funny thing is that many folks knew that Obama was n't Presidential material , and now Obama has proved that Obama is not Presidential material , yet you drones still follow Obama like sheep heading toward a cliff . 
+536	174	Bush , McCain , and Obama support amnesty . 
+537	174	The fact remains that Obama has gone backward on enforcement . 
+559	188	I 'm just happy with all the freebies and want to elect Obama for life . 
+580	196	The poll question was `` Will you vote for Obama in 2012 ? '' 
+581	196	not `` Is Obama fit to be President '' as you stated . 
+583	198	Awesome picture , ok , I 'll apologize ; I do n't want Obama in office , and I think Obama and the socialists should go to Canada . 
+589	200	Back on topic ; if Obama does n't get the economy turned around in the next two years , Obama 'll join George H. W. Bush as a one-term President . 
+592	203	Michelle Obama spilled the beans on that one when she referred to Kenya as Obama 's home country in a speech . 
+595	205	I could sit here all day posting videos of Obama and Obama cronies spewing lies . 
+604	209	He happens to love this country more than Obama , you should keep that in mind ~ ~ ~ ~ 518 What would you call an American who loved Germany so much He puts German interests above America 's . 
+608	212	You mean you are really unaware that the Obama stimulus package included over $ 300 billion in tax cuts , and you are really unaware that the economy has gone from a -6 &#37; real annual growth rate to +6 % , job loss have gone from 700,000 losses to gains , the unemployment rate peaked and is now lower , productivity is now growing at 6 % , housing markets have stabilized and the stock markets are up 70 % since March ? 
+610	212	No wonder you have such a negative view of Obama . 
+630	216	Fact : Obama 's 1st term increased the national debt 4x more than Bush 's worst term . 
+637	217	I am so tired of hearing about these tax cuts that the Obama has blessed us all with . 
+647	217	Just as simply declaring that Obama 's so called stimulus turned the economy around and brought us out of recession did n't make stimulus so either . 
+692	227	Do n't buy into the false numbers Obama likes to throw around . 
+695	229	Bwhahahahahaha 584 Bush is even more reasonable for tax hikes needed in the future than Obama . 
+696	229	Prescription drug plan Bwhahahahahaha did n't even attempt to pay for 584 , Obama atleast has tried . 
+702	231	Now that you 've been informed about the status of Obama 's tax cuts and economic performance , apparently for the first time , do you really believe that GDP , productivity , unemployment and the like are numbers Obama created ? 
+712	234	statement portends well for Obama in the future . 
+749	243	You keep blaming Obama , but everyone knows it was Bush that tanked the country . 
+750	243	Only the very limited in ability to decipher the truth blame Obama for what their party did . 
+758	245	Obama still has 2.5 years to find Obama footing . 
+760	245	Who do you like for running against Obama ? 
+762	247	It 's Obama and Obama ideas that fell short , and It can not be blamed on racism . 
+763	248	Bush had some spending issues , and Bush unfortunately , had some bailouts of Bush own , but Obama took spending\/deficit creation to a whole new level . 
+768	250	Palin and Obama are n't apples to apples comparison . 
+774	253	The prosperity and growth of America means nothing , just like Obama . 
+775	254	You are correct , Palin was ten times more qualified for the presidency than Obama . 
+776	254	ten simply unfair to lower her to Obama level of incompetence and idiocy . 
+781	258	Obama is nowhere near the bottom of the `` dumb '' pile along with your group - enjoy your sour grapes ! 

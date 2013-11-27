@@ -1,0 +1,115 @@
+**************************************************************************************************
+* User Aspect Interaction Tagging for Thread Posts in Forums
+*		School of Information System
+*       Singapore Management University    
+*
+* 1 The tagging format is as follows:
+*   SentID \t PostID \t Aspect \t AspectWordsIndex \t Opinion \t OpinionWordsIndex \t OpinionPolarity \t Sentence
+*   eg. 104	26	Obama	0	worst	4	negative	Obama will be the worst President . 
+* 2 The delimiters between tag tokens are \t and the delimiters between aspect words index and
+*   opinion words index are blanks.
+* 3 Aspect words index and opinion words index are from splitting result by blanks of the sentence.
+*   Both of them are begun with 0. 
+* 4 If there are multiple Aspect-Opinion pair in one sentence, there will be multiple tag line for 
+*   this sentence.
+**************************************************************************************************
+11730	2494	Before Obama : the stimulus the economy was tanking at a -7 % real rate , losing 700,000 + jobs a month , unemployment was skyrocketing , and the stock markets were crashing . 
+11750	2498	There may be signs of recovery in spite of Obama . 
+11754	2499	Bush was half as bad as Obama ! 
+11755	2499	Obama is three times as worse as Bush , with that said I rest I case ... Jollee 9903 If I had a choice between the two , I would pick Bush , but I dont trust Bush , I think Bush is just as bad as Obama ... JolleeJollee 9904 To I , both Obama and Bush are puppets . 
+11856	2527	I checked a while back to Carter none of those guys were in the ninety 's except Obama , I believe if I remember correctly Carter always had about a 7 point advantage . 
+11866	2529	member hate Obama . 
+11872	2529	Obama is the living breathing embodiment of American leftism and we hate American leftism with we beings . 
+11879	2531	Here is WHY people should not vote for Obama or any of the other candidates except Paul . 
+11880	2531	take two hours to watch this out of your day , I know you all have the time Obama lovers . 
+11881	2531	YouTube - The Obama Deception HQ Full ... 10019 Hi Albert , , weakening the word ? 
+11883	2532	That word was diluted two days after Obama was elected , I been called that every day for two years , and everybody else on the right as well . 
+11884	2532	You know the game , if your disagree with Obama your a racist , if you have them cornered in a debate your a racist or Bigot . 
+11956	2546	Obama will be worse than Bush . 
+11959	2548	If you say the economy , what has Obama done to improve economy . 
+11963	2550	I think it the world will look disparagingly at Obama , if world ever gets off world puffed up PC color coddling butt . 
+11968	2551	\* Being proud of ones religion and even allowing religion to influence some policy is a lot better Obama 's immoral unethical ways and Obama like instilled goon squad of hair ball advisers . 
+11969	2551	Throw in Obamas broken promises , Obama lying unethical ways , and you will have a visual of the man that Obama really is . 
+11970	2551	Oh I forgot to add Obama is inexperienced -LRB- excutivally speaking -RRB- . 
+11971	2551	I think Obama was far worse than Bush . 
+11973	2551	As a Christian I I admire Bush for being proud that Obama is a Christian , Obama on the other hand is anything that Bush needs to be , black , white , oreo , late term abortion champion ... no thanks ! 
+11974	2551	I would go so far to say that Obama is our worst president in since James Buchanan , no. . 
+11981	2551	ra 10099 Barack Obama , during Obama Cairo speech , said : `` Obama know , too , that Islam has always been a part of America 's story . '' 
+11995	2552	Says a lot of what the Muslim world really thinks of your family 's `` rich Islamic heritage , '' does n't lot Mr. Obama ? 
+12012	2552	And THAT , Mr. Obama , is the `` rich heritage '' Muslims have here in America ... 10126 Oh , I 'm sorry , heritage forgot to mention the Barbary Pirates . 
+12020	2554	Color does have something to do with it and you need not be racist to believe that unless you believe all the blacks who voted for Obama because of Obama skin color are racists . 
+12021	2554	Obama was given a pass for most of the first part of Obama term because of Obama skin color . 
+12022	2554	Obama was supposed to be the ` golden child ' , the one to bring the races together . 
+12023	2554	Instead , Obama has pushed the races further apart . 
+12024	2554	Obama has done this by such things as jumping into the cop and professor case and declaring the police force idiots without knowing what had actually happened in the case . 
+12025	2554	Obama has done this by allowing Obama justice department to not prosecute the New Black Panther Party members who intimidated voters at the polls . 
+12027	2554	Obama 's presidency has proven to be an unmitigated disaster and the question asked at the title of this thread should be changed from , Will you vote for Obama in 2012 , to , Will anyone vote for Obama in 2012 ? 
+12029	2555	Only Bush and Obama have been presidents , so how can you judge the other 3 as presidential material ? 
+12031	2555	I did not vote for Obama because Obama is black , but because Obama proved during the debates that McCain was a fool -LRB- especially with McCain pick for VP in ditherhead Palin -RRB- meaning , `` there 's no fool like an ` old ' fool . '' 
+12070	2558	Obama 's presidency is n't over yet . 
+12071	2558	How can you compare Obama 2 year term so far with the unmitigated , colossal failure of Bratboy Bush 's 8 years . 
+12095	2565	The `` cranky '' Liberals refused to go to the polls because Liberals did n't think Obama was `` liberal '' enough so the teabaggers -LRB- Liberals are rabid minority -RRB- got teabaggers Neocon vote out . 
+12131	2568	You still have Gitmo and not only has n't Obama gotten out of the war , Obama started another . 
+12145	2571	Hell , Obama is a rogue POTUS . 
+12147	2572	We would not be shooting missiles right now unless Obama ordered them ... Obama is the commander in chief you know . 
+12197	2574	Obama is the aggressor , and THEM cant stand INTO . 
+12214	2579	After you call a few names you say , , Further , , , and ask about three months , but nothing about the last couple of years ... You talk about cut Tax 's that Obama approved , so I guess Obama disappointed you again . 
+12215	2579	Here is how Here works , , You are supposed to pose a cohesive argument , like why Obama let the rich slide with tax 's , why Obama approves of Gitmo , why the Democrats ruined the Housing market ... follow ? 
+12233	2580	Christian last public description of Obama as being born and raised in Kenya is undisputed proof that Christian 's as intellectually ignorant and as Christian is a reprobate Christian -LRB- Thou shall not bear false witness -RRB- . 
+12249	2581	10332 those 183 fools who want to have Obama get reelected , better wake the hell up and realize that Ron Paul is the ONLY candidate fools should consider voting for in the reelection . 
+12250	2581	Obama is the ONLY candidate who is for the people , but more importantly , believes in the constitution . 
+12251	2581	Here get educated Obama lovers . 
+12254	2581	Wake up Obama lovers 10333 Ron Paul is not a candidate . 
+12257	2585	Barack Obama is not a candidate . 
+12258	2585	At any age , it 's doubtful Obama will be a viable . 
+12260	2586	I heard that McCain was too old by some of I democrat friends , these people could n't list any of Obama 's stances or McCain 's ... some claimed it did n't matter because McCain was too old . 
+12264	2589	Unless the GOP nominee is Bob Inglis , I suspect I choice will be between Obama and the Green party candidate . 
+12362	2603	Obama seems to want to destroy this country and the way of life of country citizens . 
+12374	2605	Muslim also mentioned that Obama thinks Obama can deal with people , Muslim 's a fool Muslim said ... 10450 '' You can never trust anything that comes out of people mouth , all people have is people crazy mixed up beliefs , and people will never make a honest deal with anybody . '' 
+12375	2605	Muslim hates Obama , like you Obama feels Obama is making this country weak and that Obama should stop the BS and kill every one of them , way 's the only way . 
+12396	2606	God bless you brother and sorry to the forum for this off topic convo ... Hey on topic I last wife died by a stroke at age 40 three years ago , Hey did not like Obama and I smile every time I write something nasty about Obama ! 
+12399	2607	But feeling sorry for them and turning I back on them -LRB- the radicals -RRB- is two different things , I sure wish Obama would learn that ! 
+12417	2617	To think Obama campaigned against Obama makes that all the harder to swallow . 
+12419	2621	WOW , , , , , look at the chart below , and then look at the results of the poll above ... When you look at the conservative and moderate number number pretty much tells you what the independents will do ... and Liberals , , , , , the same old mistake ... LOL 10493 this looks like a republican view in disguisePresident Obama must be re-elected because Obama is the opposite of Bush and wants to redistribute wealth from the rich corrupt free market place into the hands of the middle class citizens . 
+12435	2628	GOP hate to break Period to you , but as bad of a President as Obama is , President is n't a socialist . 
+12438	2629	President Obama should be re-elected because Obama is the opposite of Bush and backs the good corporations unlike Bush who backed the oil companies which led to wars for oil and a recession . 
+12440	2632	Obama has no problem taking campaign money from these corporations , millionaires and billionaires that Obama rewards . 
+12441	2632	Hopefully , if enough Americans wake up from corporations Obama zombie slumber , Obama will be but a distant memory in 2012 . 
+12450	2636	Obama is a right-wing neoliberal . 
+12451	2636	Obama was installed into power to serve Wall Street and corporate interests , and Obama has not let them down . 
+12452	2636	The middle class has no future in the neoliberal worldview of Barack Obama . 
+12462	2639	President Obama is as bad a President as G W Bush . 
+12463	2639	Both parties hated President also , President was n't a Constitutionalist , President was a centralist , President is a neoconservative , like Obama . 
+12469	2641	americans should vote for President Obama because Obama picks the good corporations as winners and makes the bad corporations into losers by paying more taxes for socialist initiatives , this is seen in the domestic drilling ban for the bad oil corporations and the tax breaks for the good corporations like GE for investing in clean energy ... a republican candidate would allow the oil companies to drill for oil causing wars and pollution and not redistribute wealth from the rich and bad corporations to the middle class , President Obama is a hybrid of socialist and corporatist and that is better than a republican who is a capitalist and corporatist . 
+12470	2642	Uh , right , more like the fact that Jeffrey Immelt , CEO of GE , is one of Obama 's top campaign contributors . 
+12471	2642	The man whom Obama appointed to the President 's Economic Recovery Advisory Board , and to serve as chairman of the Council on Jobs and Competitiveness , while GE pays no taxes on GE massive profits . 
+12472	2642	Obama is doing everything you say `` a republican candidate '' would do . 
+12474	2642	It is Obama who has launched illegal wars in Libya , Yemen , and Pakistan , while escalating Afghanistan and lying about ever withdrawing from Iraq . 
+12475	2642	It is Obama who has pushed hard to protect tax breaks for the rich , and has been obsessed since the day rich got into office with cutting Social Security and Medicare . 
+12477	2642	Obama is a hardcore right-wing neoliberal capitalist whose idol is Ronald Reagan . 
+12486	2643	populist of course was n't trying to say that Obama is `` against the interests of all corporations '' . 
+12493	2645	Guess all those 192 Obama lovers love Guess that Obama is taking us down towards nazi germany same as Bush , Clinton , congress and all those other candidates that do not believe in the constitution . 
+12494	2646	That 's the question that popped into my head vis - - vis you when my read that bizarre claim that Wall Street 's man Obama is some kind of `` populist '' . 
+12497	2646	Obama has done nothing to address any fundamental problems with the U.S. economy . 
+12498	2646	Obama did not re-instate any serious financial regulation , like the Glass-Steagall Act , which was repealed under the last right-wing Democratic president . 
+12499	2646	Obama has done nothing to address any of the flawed `` free trade '' agreements which have driven out jobs and lowered standards ... also signed by Clinton . 
+12500	2646	Rather Obama is instead pushing for new ones like KORUS , so American jobs can now be sent to North Korea too . 
+12501	2646	Obama has done nothing to address the soaring costs of healthcare weighing on America 's economy , taking single-payer off the table before the whole fake `` debate '' over Obama DoleRomneyCare bill even began . 
+12502	2646	Obama has accepted the Tea Party consensus that there is a `` debt crisis '' going on , and that programs like Medicare and Social Security are to blame for Security . 
+12503	2646	Obama has accepted the idea that we need massive spending cuts even though we are in the middle of a depression and unemployment is already soaring . 
+12504	2646	Meanwhile Obama has repeatedly made `` deals '' violating Obama own promise to even let the Bush tax cuts expire , never mind the idea of actually making serious reforms to the tax code so the rich might pay their fair share . 
+12505	2646	On the whole , Obama does n't really represent any major shifts from the neoliberal economic policies that have characterized the past 30 years . 
+12506	2646	If anything , Obama is more effective than Reagan and Bush at actually getting once-sacrosanct Democratic programs like Social Security onto the chopping block . 
+12507	2646	Obama is black . 
+12512	2646	Obama has doubled down on Bush 's radical neocon `` war on terror '' policies , both foreign and domestic . 
+12513	2646	Well , my was n't getting into the specifics of Obama 's illegal war on Libya . 
+12514	2646	my was simply making reference to Obama 's overall continuation of neoconservative foreign policy , just as Obama has continued neoliberal economic policy . 
+12553	2659	I will have to vote for Obama , anyone that ALL the parties are mad at , must be doing something right . 
+12569	2666	Looks good dont Prize ... '' Nobel Peace Prize President loses in landslide , , one term President '' LOL , , Labled worse ever , , tagged ... '' The DOWN GRADE President '' 10603 we are in agreement President Obama is not exclusive to corporate interests , President takes care of the middle class as well . 
+12578	2672	Please , explain to me a few things \* Obama \* has done to help out the middle class ... and no , raising the unemployment rate does n't count ... and no extending unemployment compensation does not work either . 
+12579	2673	If you are one of the 10 million unemployed by the great recession , you are getting some help with unemployment because of Obama . 
+12581	2674	No , Obama cares exclusively about corporate interests . 
+12582	2674	The middle class is being wiped out under Obama 's watch . 
+12611	2681	Obama may not get many votes , but the ` Publican candidate will get even less . 
+12618	2686	One less Obama vote . 
+12619	2686	`` TEA Baggers and in Obama humble opinion Baggers are nothing but racist , anti-Muslim , screwballs `` There is no evidence . 
