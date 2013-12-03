@@ -1,0 +1,24 @@
+function spaMatrix = loadSparseMatrix(file)
+
+%% sequential read the file and store it in a sparse matrix
+if exist(file, 'file')
+    % It exists.
+%     storedVariablesStructure = load(fullFileName);
+    fid = fopen(file);
+
+    spaMatrix = [];
+    tline = fgets(fid);
+    spaMatrix = [];
+    while ischar(tline)
+        tmp(1,:) = textread(tline, '%d');
+        tline = fgets(fid);
+        i++;
+    end
+
+    fclose(fid);
+else
+    % It doesn't exist.
+    warningMessage = sprintf('Error reading mat file\n%s.\n\nFile not found', ...
+    file);
+    uiwait(warndlg(warningMessage));
+end
