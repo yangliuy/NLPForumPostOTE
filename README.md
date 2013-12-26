@@ -24,7 +24,7 @@ Brief Introduction
 
 2. This package implements the construction of opinion matrices which are the input of PMF model. The main features include aspect identification, opinion expression identification and opinion relation extraction based on dependency path rules.
 
-3. The dependency path rules are extracted from the lowest common ancestor paths between opinion nodes and target nodes. For details, please refer to FindLCAPath() function in edu.pku.yangliu.nlp.pdt.tree.WDTree.java. All directions are from the govern nodes to the dependency nodes. See PreprocessText.preProcess() and PreprocessText.printFeaturesOfTOPhrasePair() for extracting the features of target and opinion phrase pairs in which the FindLCAPath() function has been callled.
+3. The dependency path rules are extracted from the lowest common ancestor paths between opinion nodes and target nodes. For details, please refer to FindLCAPath() function in edu.pku.yangliu.nlp.pdt.tree.WDTree.java. All directions are from the govern nodes to the dependency nodes. See PreprocessText.preProcess() and PreprocessText.printFeaturesOfTOPhrasePair() for extracting the features of target and opinion phrase pairs in which the FindLCAPath() function has been called.
 
 4. More details of our methods for aspect identification, opinion identification and opinion relation extraction are described in the following paper:
 
